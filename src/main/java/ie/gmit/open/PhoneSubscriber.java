@@ -2,7 +2,7 @@ package ie.gmit.open;
 
 import java.util.List;
 
-public class PhoneSubscriber {
+public class PhoneSubscriber extends ISPSubscriber{
 
     private Long subscriberId;
 
